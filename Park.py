@@ -1,1 +1,1 @@
-print "Hello World!"
+greeting = input('Hello! How are you?: ')
